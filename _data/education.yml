@@ -1,9 +1,49 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  name: Gunadarma University
+  dates: 2012 - 2016
+  qualification: Informatics Engineering
+  description: |
+    Obtained the Bachelor degree on 2016
+
+- layout: left
+  name: Architecting on AWS
+  dates: 2020
+  qualification: "3 days training architecting AWS with best practices"
+  description: |
+    [![architecting-on-aws](images/architeching-on-aws.png)](https://drive.google.com/file/d/1X4l_Yd6mwjBpfG6tuI6tLdW5IEqN608t/view?usp=sharing)
+
+- layout: left
+  name: AWS Technical Essentials
+  dates: 2020
+  qualification: "AWS Technical Essentials"
+  description: |
+    [![aws-essentials](images/aws-essentials.png)](https://drive.google.com/file/d/1H3DD_bNRHNoAI1B5NsiHk74h14rMMzet/view?usp=sharing)
+
+- layout: left
+  name: "Exam Readiness: AWS Certified Solutions Architect – Associate"
+  dates: 2020
+  qualification: "Exam Readiness: AWS Certified Solutions Architect – Associate"
+  description: |
+    [![exam-readiness-aws-certified-solutions-architect-associate](images/exam-readiness-aws-certified-solutions-architect-associate.png)](https://drive.google.com/file/d/1LBhT9G1-hNpiPlK5aa2J9T-PStnM74T8/view?usp=sharing)
+
+- layout: left
+  name: AWS Migration Gameday 2020
+  dates: 2020
+  qualification: "Modernise the Enterprise at the AWS Migration GameDay"
+  description: |
+    [![aws-gameday](images/aws-gameday.png)](https://drive.google.com/file/d/1hgOw8E1sg2U5vrHe_UOQiPTU9lLTkatK/view?usp=sharing)
+
+- layout: left
+  name: AWS Security Gameday 2020
+  dates: 2020
+  qualification: "AWS Security Gameday: Cloud Security Best Practices"
+  description: |
+    [![aws-security-gameday](images/aws-security-gameday.png)](https://drive.google.com/file/d/1r1zXvkRqDWDsOLQ9ToIATkLvbh13XKXq/view?usp=sharing)
+
+- layout: left
+  name: Microsoft Technology Associate
+  dates: 2015
+  qualification: "MTA 98-364: Database Fundamentals"
+  description: |
+    [![db-cert](images/db-cert.png)](https://drive.google.com/open?id=0B6qCg4pZ39LKWEwycy1nUFh0LUE)

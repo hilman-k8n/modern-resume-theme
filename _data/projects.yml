@@ -1,9 +1,7 @@
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+- layout: left
+  name: Datadog Monitor Sync
+  github: hilmandroid/datadog-monitor-sync
+  link: https://github.com/hilman-k8n/datadog-monitor-sync
+  description: |
+    Tool to sync datadog monitors from a single source of truth using python3
