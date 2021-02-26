@@ -1,5 +1,19 @@
 # Experience template
 - layout: left
+  company: MCPayment (Mobile Credit Payment)
+  link: mcpayment.com
+  job_title: DevOps Engineer
+  dates: Feb 2021 - Now
+  description: | # this will include new lines to allow paragraphs
+    **Responsibilities**:
+    - Manage <mark>AWS</mark> cloud infrastructure
+    - Automate CI/CD using <mark>Jenkins</mark> / <mark>Jenkins</mark>
+    - Manage <mark>Kubernetes</mark> Clusters <mark>AWS EKS</mark>
+    - Infrastructure as a code with <mark>Terraform</mark>
+    
+    **Achievements**:
+
+- layout: left
   company: Allianz Life Indonesia
   link: allianz.co.id
   job_title: DevOps Engineer
