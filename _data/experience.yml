@@ -9,7 +9,8 @@
     - Manage <mark>AWS</mark> cloud infrastructure
     - Automate CI/CD using <mark>Jenkins</mark> / <mark>Jenkins</mark>
     - Manage <mark>Kubernetes</mark> Clusters <mark>AWS EKS</mark>
-    - Infrastructure as a code with <mark>Terraform</mark>
+    - Infrastructure as a code with <mark>Terraform</mark> (Terragrunt as a wrapper)
+    - Manage Data Pipelines using <mark>AWS DMS</mark>, <mark>S3</mark>, <mark>RDS</mark> <mark>DataStudio</mark>
     
     **Achievements**:
 
