@@ -15,7 +15,7 @@
     **Achievements**:
     - Initiate Datalake project
     - Initiate Infrastructure as a code with Terraform
-    - Initiate Secure Access to AWS resources with OpenVPN
+    - Migrate Fortinet SSL VPN to pfSense OpenVPN
 
 - layout: left
   company: Allianz Life Indonesia
