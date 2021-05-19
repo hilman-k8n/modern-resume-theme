@@ -13,6 +13,9 @@
     - Manage Data Pipelines using <mark>AWS DMS</mark>, <mark>S3</mark>, <mark>RDS</mark> <mark>DataStudio</mark>
     
     **Achievements**:
+    - Initiate Datalake project
+    - Initiate Infrastructure as a code with Terraform
+    - Initiate Secure Access to AWS resources with OpenVPN
 
 - layout: left
   company: Allianz Life Indonesia
