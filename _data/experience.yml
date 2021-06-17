@@ -1,9 +1,20 @@
 # Experience template
+
+# Experience template
+- layout: left
+  company: MCPayment (Mobile Credit Payment)
+  link: mcpayment.com
+  job_title: DevOps Lead
+  dates: June 2021 - Now
+  description: |
+     **Responsibilities**:
+    
+    **Achievements**:
 - layout: left
   company: MCPayment (Mobile Credit Payment)
   link: mcpayment.com
   job_title: DevOps Engineer
-  dates: Feb 2021 - Now
+  dates: Feb 2021 - June 2021
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
     - Manage <mark>AWS</mark> cloud infrastructure
