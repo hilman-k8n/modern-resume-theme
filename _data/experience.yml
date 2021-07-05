@@ -6,10 +6,12 @@
   dates: June 2021 - Now
   description: |
     **Responsibilities**:
-    
+    - Hiring DevOps team members (screening, define interview process, technical interview)
+
     **Achievements**:
     - Centralize AWS IAM changes with GitOps
     - PoC for AWS AMS
+    - Review DevOps interview process
 
 - layout: left
   company: MC Payment Limited
