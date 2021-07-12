@@ -1,7 +1,14 @@
 # Project template
 - layout: left
   name: Datadog Monitor Sync
-  github: hilmandroid/datadog-monitor-sync
+  github: hilman-k8n/datadog-monitor-sync
   link: https://github.com/hilman-k8n/datadog-monitor-sync
   description: |
     Tool to sync datadog monitors from a single source of truth using python3
+
+- layout: left
+  name: openvpn-pki-telegram
+  github: hilman-k8n/openvpn-pki-telegram
+  link: https://github.com/hilman-k8n/openvpn-pki-telegram
+  description: |
+    Automate OpenVPN server, client config creation and send it to Telegram
