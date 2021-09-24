@@ -1,9 +1,9 @@
 # Experience template
 - layout: left
-  company: MC Payment Limited
+  company: OxPay Financial Limited (formerly MC Payment Limited)
   link: mcpayment.com
   job_title: DevOps Lead
-  dates: June 2021 - Now
+  dates: June 2021 - Oct
   description: |
     **Responsibilities**:
     - Interview DevOps candidate
@@ -17,7 +17,7 @@
     - Define and review DevOps hiring process (define technical interview questions, define technical interview tests, etc)
 
 - layout: left
-  company: MC Payment Limited
+  company: OxPay Financial Limited (formerly MC Payment Limited)
   link: mcpayment.com
   job_title: DevOps Engineer
   dates: Feb 2021 - June 2021
