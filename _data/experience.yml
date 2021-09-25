@@ -1,9 +1,20 @@
 # Experience template
+
+- layout: left
+  company: Gojek
+  link: gojek.com
+  job_title: Senior DevOps Engineer
+  dates: Oct 2021 - Now
+  description: |
+    **Responsibilities**:
+
+    **Achievements**:
+    
 - layout: left
   company: OxPay Financial Limited (formerly MC Payment Limited)
   link: mcpayment.com
   job_title: DevOps Lead
-  dates: June 2021 - Oct
+  dates: June 2021 - Oct 2021
   description: |
     **Responsibilities**:
     - Interview DevOps candidate
