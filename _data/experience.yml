@@ -7,8 +7,11 @@
   dates: Oct 2021 - Now
   description: |
     **Responsibilities**:
+    - CI/CD w/ wrapper pattern (Gitlab CI)
+    - Work w/ multi cloud providers
 
     **Achievements**:
+    - Migrate kubernetes clusters (KOPS -> EKS)
     
 - layout: left
   company: OxPay Financial Limited (formerly MC Payment Limited)
