@@ -7,6 +7,13 @@
     Obtained the Bachelor degree on 2016
 
 - layout: left
+  name: GoTo Financial Rising Star
+  dates: 2021
+  qualification: "Joined Oct 2021, less than 3 months i obtained this"
+  description: |
+    [![goto-financial-rising-star-2021-hilman-kurniawan](https://drive.google.com/file/d/1QVbqiDYY4YaRmLtlZhVRXaTcWmAymqEa/view?usp=sharing)
+
+- layout: left
   name: Architecting on AWS
   dates: 2020
   qualification: "3 days training architecting AWS with best practices"
