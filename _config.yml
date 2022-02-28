@@ -36,7 +36,7 @@ linkedin_username: kurniawanh
 # about_title: About Me (Use this to override about section title)
 about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
-  Experienced as DevOps Engineer. 5+ years linux experience with multiple linux distros. Mostly working with clouds (<mark>AWS (Amazon Web Services)</mark> & <mark>GCP (Google Cloud Platform)</mark>) to automate <mark>CI/CD</mark> with <mark>immutable infrastucture</mark>. Experienced using modern monitoring tools and logging (<mark>Datadog</mark>, EFK/ELK - <mark>ElasticSearch</mark>, <mark>Logstash</mark>, <mark>FluentD</mark><mark>Kibana</mark>) to maintain <mark>SLOs</mark> for microservices. Love to code with <mark>Python</mark> / <mark>Java</mark>
+  Experienced as DevOps Engineer. 5+ years linux experience with multiple linux distros. Mostly working with clouds (<mark>AWS (Amazon Web Services)</mark> & <mark>GCP (Google Cloud Platform)</mark>) to automate <mark>CI/CD</mark> with <mark>immutable infrastucture</mark>. Experienced using modern monitoring tools and logging (<mark>Datadog</mark>, EFK/ELK - <mark>ElasticSearch</mark>, <mark>Logstash</mark>, <mark>FluentD</mark>, <mark>Kibana</mark>) to maintain <mark>SLOs</mark> for microservices. Love to code with <mark>Python</mark> / <mark>Java</mark>
   
   Currently learning on Frontend and sometimes blogging.
 
