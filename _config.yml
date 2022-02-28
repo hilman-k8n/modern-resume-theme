@@ -34,7 +34,7 @@ linkedin_username: kurniawanh
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpeg
+about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
   Experienced as DevOps Engineer. 5+ years linux experience with multiple distros. Mostly working with clouds (<mark>AWS</mark> & <mark>GCP</mark>) to automate <mark>CI/CD</mark> with <mark>immutable infrastucture</mark>. Experienced using modern monitoring tools and logging (<mark>Datadog</mark>, <mark>Kibana</mark>) to maintain <mark>SLOs</mark> for microservices. Love to code with <mark>Python</mark> / <mark>Java</mark>
   
