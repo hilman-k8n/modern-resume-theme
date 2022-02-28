@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Hilman Kurniawan
 title: DevOps Engineer
 email: hire.hilmankurniawan@gmail.com
-phone: Not open for *full-time* new opportunity. Projects? Please mail me 😉
+phone: Not open for **full-time** new opportunity. Projects? Please mail me 😉
 website: hilmankurniawan.com
 
 # Dark Mode (true/false/never)
