@@ -13,6 +13,7 @@
     **Achievements**:
     - Migrate kubernetes clusters (KOPS -> EKS)
     - [GoTo Financial Rising Star (2021)](https://drive.google.com/drive/folders/13OR--Vfb0mR50Dj_rn_tes0k6JfyOvDN?usp=sharing)
+    - Migrate all data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
     
 - layout: left
   company: OxPay Financial Limited (formerly MC Payment Limited)
