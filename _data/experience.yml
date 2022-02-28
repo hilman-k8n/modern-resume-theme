@@ -21,9 +21,10 @@
   dates: June 2021 - Oct 2021
   description: |
     **Responsibilities**:
+    - Prioritize & plan stories need to be done in near and long future
     - Interview DevOps candidate
     - Manage <mark>ActiveDirectory</mark>
-    - Mangae DNS (Windows DNS, <mark>Route53</mark>)
+    - Manage DNS (Windows DNS, <mark>Route53</mark>)
     - Manage AWS Infrastructure
     
     **Achievements**:
@@ -41,11 +42,12 @@
     - Manage <mark>AWS</mark> cloud infrastructure
     - Automate CI/CD using <mark>Jenkins</mark>
     - Manage <mark>Kubernetes</mark> Clusters (<mark>AWS EKS</mark>)
-    - Infrastructure as a code with <mark>Terraform</mark> (Terragrunt as a wrapper)
-    - Manage Data Pipelines using <mark>AWS DMS</mark>, <mark>S3</mark>, <mark>RDS</mark> <mark>DataStudio</mark>
+    - Infrastructure as a code with <mark>Terraform</mark> (<mark>Terragrunt</mark> as wrapper)
+    - Manage Data Pipelines using <mark>AWS DMS</mark>, <mark>S3</mark>, <mark>RDS</mark> <mark>DataStudio</mark> to <mark>Datalake</mark>
+    - Logging w/ ELK (<mark>ElasticSearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>) stack
     
     **Achievements**:
-    - Initiate Datalake project
+    - Initiate <mark>Datalake</mark> project
     - Initiate Infrastructure as a code with Terraform
     - Migrate Fortinet SSL VPN to pfSense OpenVPN
 
