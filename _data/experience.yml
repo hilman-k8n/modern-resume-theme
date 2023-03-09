@@ -7,11 +7,18 @@
   dates: Oct 2021 - Now
   description: |
     **Responsibilities**:
+    - Lead of 3
     - CI/CD w/ wrapper pattern (Gitlab CI)
-    - Work w/ multi cloud providers
+    - Work w/ multi cloud providers (AWS, GCP)
+    - Manage 10+ Kubernetes clusters (KOPS, EKS, GKE) with:
+      - kube-prometheus-stack (prometheus, grafana, prometheus-operator)
+      - cert-manager
+      - kubed
+      - Vault & Vault Secrets Operator
+    - Lead and give guidelines for AWS KOPS > GCP GKE Migration
 
     **Achievements**:
-    - Migrate kubernetes clusters (KOPS -> EKS)
+    - Migrate kubernetes clusters (KOPS 1.15 -> GKE 1.24)
     - [GoTo Financial Rising Star (2021)](https://drive.google.com/drive/folders/13OR--Vfb0mR50Dj_rn_tes0k6JfyOvDN?usp=sharing)
     - Migrate all data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
     
