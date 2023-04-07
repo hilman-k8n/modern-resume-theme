@@ -44,7 +44,6 @@
     
     **Achievements**:
     - Centralize AWS IAM changes with GitOps
-    - PoC for AWS AMS
     - Define and review DevOps hiring process (define technical interview questions, define technical interview tests, etc)
 
 - layout: left
@@ -62,7 +61,7 @@
     - Logging w/ ELK (<mark>ElasticSearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>) stack
     
     **Achievements**:
-    - Initiate <mark>Datalake</mark> project
+    - Initiate, design and implemented project <mark>AWS Datalake</mark> (Ms. SQL, Glue, S3, Athena)
     - Initiate Infrastructure as a code with Terraform
     - Migrate Fortinet SSL VPN to pfSense OpenVPN
 
