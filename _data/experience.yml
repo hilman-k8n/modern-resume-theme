@@ -61,7 +61,7 @@
     - Logging w/ ELK (<mark>ElasticSearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>) stack
     
     **Achievements**:
-    - Initiate, design and implemented project <mark>AWS Datalake</mark> (Ms. SQL, Glue, S3, Athena)
+    - Initiate, design and implemented project <mark>AWS Datalake</mark> (Ms. SQL, DMS, S3, Athena)
     - Initiate Infrastructure as a code with Terraform
     - Migrate Fortinet SSL VPN to pfSense OpenVPN
 
