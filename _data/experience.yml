@@ -9,13 +9,19 @@
     **Responsibilities**:
     - Lead of 3
     - Work w/ multi cloud providers (AWS, GCP)
+    - Infrastructure as code with terraform, ansible, Hashicorp Packer
     - Manage 10+ Kubernetes clusters (KOPS, EKS, GKE) with:
       - Infrastructure observability and monitoiring w/ kube-prometheus-stack (prometheus, grafana, prometheus-operator)
       - Certificate management w/ cert-manager & kubed
       - Secret management w/ Vault & Vault Secrets Operator
       - Application performance monitoring with NewRelic
       - CI/CD with GitLab, Jenkins
+        - SpringBoot, Ruby on Rails
+        - Kaniko, docker buildx
       - Redis
+    - Maintain stateful components:
+      - ElasticSearch
+      - Patroni PostgreSQL
 
     **Achievements**:
     - Migrate kubernetes clusters (KOPS 1.15 -> GKE 1.24)
