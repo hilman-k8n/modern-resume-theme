@@ -28,8 +28,8 @@
     - [GoTo Financial Rising Star (2021)](https://drive.google.com/drive/folders/13OR--Vfb0mR50Dj_rn_tes0k6JfyOvDN?usp=sharing)
     - Reduce cloud cost to 50% w/ spot instances
     - Migrate all data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
-    - Lead infrastructure and appliation migration to Google Cloud Platform
-      - Migration strategy & checklists
+    - Lead infrastructure and application migration to Google Cloud Platform
+      - Migration strategy, checklists, and guides
       - CI/CD pipeline during and after migration
       - Site to site VPN tunnels
       - Observability and dashboard during migration
