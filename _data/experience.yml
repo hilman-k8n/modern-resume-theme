@@ -7,33 +7,33 @@
   dates: Oct 2021 - Now
   description: |
     **Responsibilities**:
-    - Lead of 3
-    - Work w/ multi cloud providers (AWS, GCP)
-    - Infrastructure as code with terraform, ansible, Hashicorp Packer
+    - As a Individual Contrubutor and also lead of 3 junior-mid engineers
+    - Manage Kong API Gateway ACLs
+    - Centralize infrastructure as code with terraform w/ GitOps for:
+       - DNS records management
+       - Cloud infrastructure (AWS & GCP)
+    - Standarize golden image creation for base image for all VM based workloads w/ ansible & Hasicorp Packer
     - Manage 10+ Kubernetes clusters (KOPS, EKS, GKE) with:
-      - Infrastructure observability and monitoiring w/ kube-prometheus-stack (prometheus, grafana, prometheus-operator)
-      - Certificate management w/ cert-manager & kubed
-      - Secret management w/ Vault & Vault Secrets Operator
-      - Application performance monitoring with NewRelic
-      - CI/CD with GitLab, Jenkins
-        - SpringBoot, Ruby on Rails
-        - Kaniko, docker buildx
-      - Redis
-    - Maintain stateful components:
-      - ElasticSearch
-      - Patroni PostgreSQL
+      - Infrastructure observability and monitoiring w/ kube-prometheus-stack (alertmanager, prometheus, grafana, prometheus-operator)
+      - Centralize SSL certificate creation and renewal w/ cert-manager & kubed
+      - Centralize application secret management w/ Vault & Vault Secrets Operator
+      - Stateful stacks, such as: redis, PostgreSQL clusters with Patroni operator
+      - Ingress management with ingress-nginx
+    - Manage stateful components such as: RabbitMQ, Kafka, PostgreSQL, ElasticSearch, MongoDB
 
     **Achievements**:
     - Migrate kubernetes clusters (KOPS 1.15 -> GKE 1.24)
     - [GoTo Financial Rising Star (2021)](https://drive.google.com/drive/folders/13OR--Vfb0mR50Dj_rn_tes0k6JfyOvDN?usp=sharing)
     - Reduce cloud cost to 50% w/ spot instances
-    - Migrate all data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
-    - Lead infrastructure and application migration to Google Cloud Platform
-      - Migration strategy, checklists, and guides
-      - CI/CD pipeline during and after migration
+    - Migrate all MokaPOS data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
+    - Lead infrastructure and application migration to Google Cloud Platform for MokaPOS 
+      - Migration strategy, timelines, and implementation docs
+      - CI/CD pipeline templates, helm charts
       - Site to site VPN tunnels
-      - Observability and dashboard during migration
-
+      - Observability and end-to-end visibility for cloud migartion
+    - As a single individual contributor for:
+      - MokaPOS application migration to Istio stacks
+      - Migration to Zero Trust Network Access for all internal application access with teleport, replacing OpenVPN
     
 - layout: left
   company: OxPay Financial Limited (formerly MC Payment Limited)
