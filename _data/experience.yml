@@ -12,7 +12,11 @@
     - Centralize infrastructure as code with terraform w/ GitOps for:
        - DNS records management
        - Cloud infrastructure (AWS & GCP)
+    - Manage CloudFlare products, such as: CloudFlare Zero Trust, DNS, WAF
     - Standarize golden image creation for base image for all VM based workloads w/ ansible & Hasicorp Packer
+    - Standarize CI/CD pipelines for both Jenkins/Gitlab CI:
+      - Reusable CI templates
+      - helm chart templates for CD
     - Manage 10+ Kubernetes clusters (KOPS, EKS, GKE) with:
       - Infrastructure observability and monitoiring w/ kube-prometheus-stack (alertmanager, prometheus, grafana, prometheus-operator)
       - Centralize SSL certificate creation and renewal w/ cert-manager & kubed
