@@ -13,9 +13,9 @@
        - DNS records management
        - Cloud infrastructure (AWS & GCP)
     - Manage CloudFlare products, such as: CloudFlare Zero Trust, DNS, WAF
-    - Standarize golden image creation for base image for all VM based workloads w/ ansible & Hasicorp Packer
-    - Standarize CI/CD pipelines for both Jenkins/Gitlab CI:
-      - Standarize pipeline stages accross offline-merchant-services division w/ reusable CI templates and trunk-based development
+    - Standardize golden image creation for base image for all VM based workloads w/ ansible & Hasicorp Packer
+    - Standardize CI/CD pipelines for both Jenkins/Gitlab CI:
+      - Standardize pipeline stages accross offline-merchant-services division w/ reusable CI templates and trunk-based development
       - helm chart templates for CD
     - Manage 10+ Kubernetes clusters (KOPS, EKS, GKE) with:
       - Infrastructure observability and monitoiring w/ kube-prometheus-stack (alertmanager, prometheus, grafana, prometheus-operator)
