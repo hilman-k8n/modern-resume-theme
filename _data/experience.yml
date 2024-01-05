@@ -7,7 +7,7 @@
   dates: Oct 2021 - Now
   description: |
     **Responsibilities**:
-    - As a Individual Contrubutor and also lead of 3 junior-mid engineers
+    - As a Individual Contributor and also lead of 3 junior-mid engineers
     - Manage Kong API Gateway ACLs
     - Centralize infrastructure as code with terraform w/ GitOps for:
        - DNS records management
