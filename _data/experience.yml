@@ -2,6 +2,16 @@
 
 - layout: left
   company: Gojek
+  link: gopay.co.id/merchant
+  job_title: Software Engineer: Gopay Merchant App
+  dates: Oct 2021 - Dec 2023
+  description: |
+    **Responsibilities**:
+    - Developing Backend for Frontend for Gopay Merchant App
+    - Developing Backend for Gopay Merchant App
+    - Developing Gopay Merchant App API Client libraries
+- layout: left
+  company: Gojek
   link: gojek.com
   job_title: Senior DevOps Engineer - GoTo Financial: Merchant Services
   dates: Oct 2021 - Dec 2023
