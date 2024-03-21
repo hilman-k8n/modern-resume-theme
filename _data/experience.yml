@@ -10,10 +10,11 @@
     - Developing Backend for Frontend for Gopay Merchant App
     - Developing Backend for Gopay Merchant App
     - Developing Gopay Merchant App API Client libraries
+
 - layout: left
   company: Gojek
   link: gojek.com
-  job_title: Senior DevOps Engineer - GoTo Financial: Merchant Services
+  job_title: "Senior DevOps Engineer - GoTo Financial: Merchant Services"
   dates: Oct 2021 - Dec 2023
   description: |
     **Responsibilities**:
@@ -48,7 +49,7 @@
     - As a single individual contributor for:
       - MokaPOS application migration to Istio stacks
       - Migration to Zero Trust Network Access for all internal application access with teleport, replacing OpenVPN
-    
+
 - layout: left
   company: OxPay Financial Limited (formerly MC Payment Limited)
   link: oxpayfinancial.com
@@ -101,7 +102,7 @@
     **Achievements**:
     - Design & integrate AWS with existing infrastructure (hybrid DNS resolution, VPCs, subnets, NAT gateways, bastion hosts, etc)
     - Upgrade 3 major GitLab version
-       
+
 - layout: left
   company: vidio.com — KMKLABS
   link: vidio.com
@@ -117,7 +118,7 @@
     
     **Achievements**:
     - Weekly Hero: Find and resolve bug on Legacy Code
-    
+
 - layout: left
   company: Blackberry Messenger — KMKLABS
   link: bbm.com
@@ -136,11 +137,11 @@
     **Achievements**:
     - Weekly Hero: Reduce monitoring cost by moving alert notification to Google Chat
 
-    
+
 - layout: left
   company: PT. Jasa Teknologi Informasi IBM
   link: ibm-jti.com
-  job_title: IT Specialist - Server
+  job_title: IT Specialist - Server | PT. Mitra Adi Perkasa, Tbk
   dates: January 2017 - January 2018
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
