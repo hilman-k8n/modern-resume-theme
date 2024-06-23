@@ -7,9 +7,13 @@
   dates: Jan 2024 - Now
   description: |
     **Responsibilities**:
-    - Developing Backend for Frontend for Gopay Merchant App
-    - Developing Backend for Gopay Merchant App
-    - Developing Gopay Merchant App API Client libraries
+    - Developing Backend for Frontend for Gopay Merchant App (Kotlin - Springboot WebFlux)
+    - Developing Backend for Gopay Merchant App (Kotlin - Springboot WebFlux)
+    - Developing Gopay Merchant App API Client libraries (Java)
+
+    **Projects**
+    - May 2024 - Now: Feature for enable Gopay Merchant QRIS generation automation in every merchant's name update
+    - Jan 2024 - Mar 2024: Add feature to expand Gopay Spiker order serviceability area with Cartography service
 
 - layout: left
   company: Gojek
