@@ -7,13 +7,13 @@
   dates: Jan 2024 - Now
   description: |
     **Responsibilities**:
-    - Developing Backend for Frontend for Gopay Merchant App (Kotlin - Springboot WebFlux)
-    - Developing Backend for Gopay Merchant App (Kotlin - Springboot WebFlux)
-    - Developing Gopay Merchant App API Client libraries (Java)
+    - Developing Backend for Frontend for Gopay Merchant App using <mark>Kotlin</mark> and <mark>Springboot WebFlux</mark>
+    - Developing Backend for Gopay Merchant App with <mark>Kotlin</mark> and <mark>Springboot WebFlux</mark>
+    - Developing Gopay Merchant App API Client libraries in <mark>Java</mark>
 
     **Projects**
-    - May 2024 - Now: Feature for enable Gopay Merchant QRIS generation automation in every merchant's name update
-    - Jan 2024 - Mar 2024: Add feature to expand Gopay Spiker order serviceability area with Cartography service
+    - May 2024 - Now: Enabled Gopay Merchant QRIS generation automation for every merchant name update
+    - Jan 2024 - Mar 2024:  Expanded Gopay Spiker order serviceability area with Cartography service
 
 - layout: left
   company: Gojek
@@ -22,37 +22,31 @@
   dates: Oct 2021 - Dec 2023
   description: |
     **Responsibilities**:
-    - As a Individual Contributor and also lead of 3 junior-mid engineers
-    - Manage Kong API Gateway ACLs
-    - Centralize infrastructure as code with terraform w/ GitOps for:
-       - DNS records management
-       - Cloud infrastructure (AWS & GCP)
-    - Manage CloudFlare products, such as: CloudFlare Zero Trust, DNS, WAF
-    - Standardize golden image creation for base image for all VM based workloads w/ ansible & Hasicorp Packer
-    - Standardize CI/CD pipelines for both Jenkins/Gitlab CI:
-      - Standardize pipeline stages accross offline-merchant-services division w/ reusable CI templates and trunk-based development
-      - helm chart templates for CD
-    - Manage 10+ Kubernetes clusters (KOPS, EKS, GKE) with:
-      - Infrastructure observability and monitoiring w/ kube-prometheus-stack (alertmanager, prometheus, grafana, prometheus-operator)
-      - Centralize SSL certificate creation and renewal w/ cert-manager & kubed
-      - Centralize application secret management w/ Vault & Vault Secrets Operator
-      - Stateful stacks, such as: redis, PostgreSQL clusters with Patroni operator
+    - Individual Contributor and lead of a team of 3 junior-mid engineers
+    - Managed Kong API Gateway ACLs
+    - Centralized infrastructure as code with Terraform using GitOps for:
+      - DNS records management
+      - Cloud infrastructure (AWS & GCP)
+    - Managed CloudFlare products, including CloudFlare Zero Trust, DNS, and WAF
+    - Standardized golden image creation for VM-based workloads using <mark>Ansible</mark> and <mark>Hasicorp Packer</mark>
+    - Standardized CI/CD pipelines for <mark>Jenkins</mark>/<mark>Gitlab CI</mark>:
+      - Created reusable CI templates and trunk-based development pipeline stages across the Offline Merchant Services division
+      - Developed helm chart templates for CD
+    - Managed over 10 Kubernetes clusters (KOPS, EKS, GKE) with:
+      - Infrastructure observability and monitoring using kube-prometheus-stack (alertmanager, prometheus, grafana, prometheus-operator)
+      - Centralized SSL certificate creation and renewal with cert-manager & kubed
+      - Centralized application secret management with Vault & Vault Secrets Operator
+      - Managed stateful stacks such as Redis and PostgreSQL clusters with Patroni operator
       - Ingress management with ingress-nginx
-    - Manage stateful components such as: RabbitMQ, Kafka, PostgreSQL, ElasticSearch, MongoDB
+      - Managed stateful components such as RabbitMQ, Kafka, PostgreSQL, ElasticSearch, and MongoDB
 
     **Achievements**:
-    - Migrate kubernetes clusters (KOPS 1.15 -> GKE 1.24)
-    - [GoTo Financial Rising Star (2021)](https://drive.google.com/drive/folders/13OR--Vfb0mR50Dj_rn_tes0k6JfyOvDN?usp=sharing)
-    - Reduce cloud cost to 50% w/ spot instances
-    - Migrate all MokaPOS data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
-    - Lead infrastructure and application migration to Google Cloud Platform for MokaPOS 
-      - Migration strategy, timelines, and implementation docs
-      - CI/CD pipeline templates, helm charts
-      - Site to site VPN tunnels
-      - Observability and end-to-end visibility for cloud migartion
-    - As a single individual contributor for:
-      - MokaPOS application migration to Istio stacks
-      - Migration to Zero Trust Network Access for all internal application access with teleport, replacing OpenVPN
+    - Migrated Kubernetes clusters from KOPS 1.15 to GKE 1.24
+    - Awarded [GoTo Financial Rising Star (2021)](https://drive.google.com/drive/folders/13OR--Vfb0mR50Dj_rn_tes0k6JfyOvDN?usp=sharing)
+    - Reduced cloud costs by 50% using spot instances
+    - Migrated all MokaPOS data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
+    - Led infrastructure and application migration to Google Cloud Platform for MokaPOS, including strategy, timelines, implementation documents, CI/CD pipeline templates, helm charts, site-to-site VPN tunnels, and end-to-end visibility for cloud migration
+    - Acted as a single individual contributor for MokaPOS application migration to Istio stacks and migration to Zero Trust Network Access for internal application access with Teleport, replacing OpenVPN
 
 - layout: left
   company: OxPay Financial Limited (formerly MC Payment Limited)
@@ -61,15 +55,16 @@
   dates: June 2021 - Oct 2021
   description: |
     **Responsibilities**:
-    - Prioritize & plan stories need to be done in near and long future
-    - Interview DevOps candidate
-    - Manage <mark>ActiveDirectory</mark>
-    - Manage DNS (Windows DNS, <mark>Route53</mark>)
-    - Manage AWS Infrastructure
+    - Prioritized and planned stories for near and long-term tasks
+    - Interviewed DevOps candidates
+    - Managed ActiveDirectory and DNS (Windows DNS, Route53)
+    - Managed AWS Infrastructure
+
+
     
     **Achievements**:
-    - Centralize AWS IAM changes with GitOps
-    - Define and review DevOps hiring process (define technical interview questions, define technical interview tests, etc)
+    - Centralized AWS IAM changes with GitOps
+    - Defined and reviewed DevOps hiring processes, including technical interview questions and tests
 
 - layout: left
   company: OxPay Financial Limited (formerly MC Payment Limited)
@@ -78,17 +73,19 @@
   dates: Feb 2021 - June 2021
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
-    - Manage <mark>AWS</mark> cloud infrastructure
-    - Automate CI/CD using <mark>Jenkins</mark>
-    - Manage <mark>Kubernetes</mark> Clusters (<mark>AWS EKS</mark>)
-    - Infrastructure as a code with <mark>Terraform</mark> (<mark>Terragrunt</mark> as wrapper)
-    - Manage Data Pipelines using <mark>AWS DMS</mark>, <mark>S3</mark>, <mark>RDS</mark> <mark>DataStudio</mark> to <mark>Datalake</mark>
-    - Logging w/ ELK (<mark>ElasticSearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>) stack
+    - Managed AWS cloud infrastructure
+    - Automated CI/CD using Jenkins
+    - Managed Kubernetes Clusters (AWS EKS)
+    - Implemented infrastructure as code with Terraform (using Terragrunt as a wrapper)
+    - Managed Data Pipelines using AWS DMS, S3, RDS DataStudio to Datalake
+    - Handled logging with the ELK stack (ElasticSearch, Logstash, Kibana)
+
+
     
     **Achievements**:
-    - Initiate, design and implemented project <mark>AWS Datalake</mark> (Ms. SQL, DMS, S3, Athena)
-    - Initiate Infrastructure as a code with Terraform
-    - Migrate Fortinet SSL VPN to pfSense OpenVPN
+    - Initiated, designed, and implemented AWS Datalake project (Ms. SQL, DMS, S3, Athena)
+    - Initiated infrastructure as code with Terraform
+    - Migrated Fortinet SSL VPN to pfSense OpenVPN
 
 - layout: left
   company: Allianz Life Indonesia
@@ -97,15 +94,14 @@
   dates: Nov 2019 - Jan 2021
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
-    - Manage <mark>AWS</mark> cloud infrastructure
-    - Automate CI/CD using <mark>Jenkins</mark> / <mark>GoCD</mark>
-    - Manage <mark>GitLab</mark>
-    - Manage <mark>Kubernetes</mark> Clusters (<mark>AWS EKS</mark>, <mark>OpenShift</mark>)
-    - Infrastructure as a code with <mark>Terraform</mark>
+    - Managed AWS cloud infrastructure
+    - Automated CI/CD using Jenkins/GoCD
+    - Managed GitLab and Kubernetes Clusters (AWS EKS, OpenShift)
+    - Implemented infrastructure as code with Terraform
     
     **Achievements**:
-    - Design & integrate AWS with existing infrastructure (hybrid DNS resolution, VPCs, subnets, NAT gateways, bastion hosts, etc)
-    - Upgrade 3 major GitLab version
+    - Designed and integrated AWS with existing infrastructure (hybrid DNS resolution, VPCs, subnets, NAT gateways, bastion hosts, etc.)
+    - Upgraded GitLab versions three times
 
 - layout: left
   company: vidio.com — KMKLABS
@@ -114,14 +110,16 @@
   dates: July 2019 - October 2019
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
-    - Manage <mark>GCP</mark> infrastructure
-    - Automate CI/CD with <mark>Jenkins</mark> using <mark>Ansible</mark>
-    - Automate repetitive taks with <mark>Python</mark> / <mark>Bash</mark> (such as: SSH access, firewall)
-    - Maintain legacy code
-    - Reduce infrastructure costs
+    - Managed GCP infrastructure
+    - Automated CI/CD with Jenkins using Ansible
+    - Automated repetitive tasks with Python/Bash (such as SSH access and firewall management)
+    - Maintained legacy code
+    - Reduced infrastructure costs
+
+
     
     **Achievements**:
-    - Weekly Hero: Find and resolve bug on Legacy Code
+    - Awarded Weekly Hero for identifying and resolving a bug in legacy code
 
 - layout: left
   company: Blackberry Messenger — KMKLABS
@@ -130,16 +128,16 @@
   dates: Febuary 2018 - June 2019
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
-    - Work with devs & QAs to define <mark>SLIs</mark> & <mark>SLOs</mark> for microservices before production
-    - Write custom scripts (<mark>Bash</mark>, <mark>Python</mark>) for custom metrics collection
-    - Configure monitoring agent for <mark>>5000 VMs</mark>
-    - Manage <mark>>1500 SLO monitors</mark> with <mark>Datadog</mark>
-    - Manage <mark>>300 Dashboards</mark> for devs and QAs 
-    - Responsible for evaluate service description and production readiness of micro-services
-    - First level escalation for alert/incident and responsible for preparing post-mortem documentation
+    - Collaborated with devs and QAs to define SLIs & SLOs for microservices before production
+    - Wrote custom scripts (Bash, Python) for custom metrics collection
+    - Configured monitoring agents for over 5000 VMs
+    - Managed over 1500 SLO monitors with Datadog
+    - Managed over 300 dashboards for devs and QAs
+    - Evaluated service descriptions and production readiness of micro-services
+    - Acted as the first level of escalation for alerts/incidents and prepared post-mortem documentation
 
     **Achievements**:
-    - Weekly Hero: Reduce monitoring cost by moving alert notification to Google Chat
+    - Awarded Weekly Hero for reducing monitoring costs by moving alert notifications to Google Chat
 
 
 - layout: left
@@ -149,16 +147,15 @@
   dates: January 2017 - January 2018
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
-    - <mark>ActiveDirectory</mark> and <mark>Exchange</mark> users creation
-    - Patch OS / software vulnerability regurarly
-    - Manage <mark>>2000 antivirus agents</mark> both in head office and all stores/merchants all over Indonesia
-    - Manage <mark>SMB</mark> & <mark>NFS</mark> shares
-    - Manage <mark>LimeSurvey</mark>
-    - Manage <mark>NextCloud</mark> users & <mark>NAS</mark> storage
-    - Manage <mark>proxy policies</mark>, <mark>DNS</mark>, <mark>DCHP</mark> server
-    - Responsible for physical server upgrades
-    - Provision VMs for devs
+    - Created ActiveDirectory and Exchange users
+    - Managed over 2000 antivirus agents across head office and all stores/merchants in Indonesia
+    - Regularly patched OS/software vulnerabilities
+    - Managed SMB & NFS shares
+    - Managed LimeSurvey and NextCloud users & NAS storage
+    - Managed proxy policies, DNS, and DHCP server
+    - Conducted physical server upgrades
+    - Provisioned VMs for developers
     
     **Achievements**:
-    - Automate <mark>ActiveDirectory</mark> and <mark>Exchange</mark> users creation with <mark>PowerShell</mark>
-    - Reduce server cost for local antivirus server updater for all stores/merchants all over Indonesia
+    - Automated ActiveDirectory and Exchange user creation with PowerShell
+    - Reduced server costs for local antivirus server updater for all stores/merchants across Indonesia
