@@ -14,7 +14,7 @@
     **Projects**
     - May 2024 - Now
     
-      Enabled Gopay Merchant QRIS generation automation for every merchant name update
+      Enabled Gopay Merchant QRIS generation automation for every merchant name update (<mark>Elixir</mark> with <mark>[Exq](https://github.com/akira/exq)</mark>)
     - Jan 2024 - Mar 2024
     
       Expanded Gopay Spiker order serviceability area with Cartography service
@@ -27,21 +27,21 @@
   description: |
     **Responsibilities**:
     - Individual Contributor and lead of a team of 3 junior-mid engineers
-    - Managed Kong API Gateway ACLs
-    - Centralized infrastructure as code with Terraform using GitOps for:
+    - Managed <mark>Kong</mark> API Gateway ACLs
+    - Centralized infrastructure as code with <mark>Terraform</mark> using <mark>GitOps</mark> for:
       - DNS records management
-      - Cloud infrastructure (AWS & GCP)
-    - Managed CloudFlare products, including CloudFlare Zero Trust, DNS, and WAF
+      - Cloud infrastructure (<mark>AWS</mark> & <mark>GCP</mark>)
+    - Managed <mark>CloudFlare</mark> products, including <mark>CloudFlare Zero Trust</mark>, <mark>DNS</mark>, and <mark>WAF</mark>
     - Standardized golden image creation for VM-based workloads using <mark>Ansible</mark> and <mark>Hasicorp Packer</mark>
     - Standardized CI/CD pipelines for <mark>Jenkins</mark>/<mark>Gitlab CI</mark>:
       - Created reusable CI templates and trunk-based development pipeline stages across the Offline Merchant Services division
-      - Developed helm chart templates for CD
-    - Managed over 10 Kubernetes clusters (KOPS, EKS, GKE) with:
-      - Infrastructure observability and monitoring using kube-prometheus-stack (alertmanager, prometheus, grafana, prometheus-operator)
-      - Centralized SSL certificate creation and renewal with cert-manager & kubed
-      - Centralized application secret management with Vault & Vault Secrets Operator
-      - Managed stateful stacks such as Redis and PostgreSQL clusters with Patroni operator
-      - Ingress management with ingress-nginx
+      - Developed <mark>helm chart</mark> templates for CD
+    - Managed over 10 Kubernetes clusters (<mark>KOPS</mark>, <mark>EKS</mark>, <mark>GKE</mark>) with:
+      - Infrastructure observability and monitoring using <mark>[kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack)</mark> (<mark>alertmanager</mark>, <mark>prometheus</mark>, <mark>grafana</mark>, <mark>prometheus-operator</mark>)
+      - Centralized SSL certificate creation and renewal with <mark>cert-manager</mark> & <mark>kubed</mark>
+      - Centralized application secret management with <mark>Vault</mark> & <mark>Vault Secrets Operator</mark>
+      - Managed stateful stacks such as <mark>Redis</mark> and <mark>PostgreSQL</mark> clusters with <mark>Patroni</mark> operator
+      - Ingress management with <mark>ingress-nginx</mark>
       - Managed stateful components such as RabbitMQ, Kafka, PostgreSQL, ElasticSearch, and MongoDB
 
     **Achievements**:
@@ -61,10 +61,8 @@
     **Responsibilities**:
     - Prioritized and planned stories for near and long-term tasks
     - Interviewed DevOps candidates
-    - Managed ActiveDirectory and DNS (Windows DNS, Route53)
+    - Managed <mark>ActiveDirectory</mark> and DNS (Windows DNS, <mark>Route53</mark>)
     - Managed AWS Infrastructure
-
-
     
     **Achievements**:
     - Centralized AWS IAM changes with GitOps
@@ -78,18 +76,17 @@
   description: | # this will include new lines to allow paragraphs
     **Responsibilities**:
     - Managed AWS cloud infrastructure
-    - Automated CI/CD using Jenkins
-    - Managed Kubernetes Clusters (AWS EKS)
-    - Implemented infrastructure as code with Terraform (using Terragrunt as a wrapper)
-    - Managed Data Pipelines using AWS DMS, S3, RDS DataStudio to Datalake
+    - Automated CI/CD using <mark>Jenkins</mark>
+    - Managed Kubernetes Clusters (<mark>AWS EKS</mark>)
+    - Implemented infrastructure as code with <mark>Terraform</mark> (using <mark>Terragrunt</mark> as a wrapper)
+    - Managed Data Pipelines using <mark>AWS DMS</mark>, <mark>S3</mark>, <mark>RDS</mark>, <mark>DataStudio</mark> to Datalake
     - Handled logging with the ELK stack (ElasticSearch, Logstash, Kibana)
-
 
     
     **Achievements**:
     - Initiated, designed, and implemented AWS Datalake project (Ms. SQL, DMS, S3, Athena)
     - Initiated infrastructure as code with Terraform
-    - Migrated Fortinet SSL VPN to pfSense OpenVPN
+    - Migrated Fortinet SSL VPN to <mark>pfSense OpenVPN</mark>
 
 - layout: left
   company: Allianz Life Indonesia
@@ -135,8 +132,8 @@
     - Collaborated with devs and QAs to define SLIs & SLOs for microservices before production
     - Wrote custom scripts (Bash, Python) for custom metrics collection
     - Configured monitoring agents for over 5000 VMs
-    - Managed over 1500 SLO monitors with Datadog
-    - Managed over 300 dashboards for devs and QAs
+    - Managed over <mark>1500 SLO monitors</mark> with Datadog
+    - Managed over <mark>300 dashboards</mark> for devs and QAs
     - Evaluated service descriptions and production readiness of micro-services
     - Acted as the first level of escalation for alerts/incidents and prepared post-mortem documentation
 
