@@ -37,7 +37,7 @@
       - Created reusable CI templates and trunk-based development pipeline stages across the Offline Merchant Services division
       - Developed <mark>helm chart</mark> templates for CD
     - Managed over 10 Kubernetes clusters (<mark>KOPS</mark>, <mark>EKS</mark>, <mark>GKE</mark>) with:
-      - Infrastructure observability and monitoring using <mark>[kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack)</mark> (<mark>alertmanager</mark>, <mark>prometheus</mark>, <mark>grafana</mark>, <mark>prometheus-operator</mark>)
+      - Infrastructure observability and monitoring using <mark>[kube-prometheus-stack]</mark>(https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) (<mark>alertmanager</mark>, <mark>prometheus</mark>, <mark>grafana</mark>, <mark>prometheus-operator</mark>)
       - Centralized SSL certificate creation and renewal with <mark>cert-manager</mark> & <mark>kubed</mark>
       - Centralized application secret management with <mark>Vault</mark> & <mark>Vault Secrets Operator</mark>
       - Managed stateful stacks such as <mark>Redis</mark> and <mark>PostgreSQL</mark> clusters with <mark>Patroni</mark> operator
