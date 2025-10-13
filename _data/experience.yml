@@ -1,10 +1,58 @@
 # Experience template
 
 - layout: left
+  company: Grab
+  link: grab.com
+  job_title: "Migration Buddy - OVO, OVO Financial & Platform Engineer - Service Mesh"
+  dates: Dec 2025 - Now
+  description: |
+    **Responsibilities**:
+    As OVO Migration Buddy:
+    - Supporting service owner for AWS to GCP cloud migration:
+      - Guiding and gathering all the pre-requisite for migration
+        - Service discovery documents
+        - Network connectivity
+        - Identifying possible blockers and provide AIs
+      - Guiding the service owner to adopt all Grab Tech Infra Tech Stack
+        - Config / Secret Management
+        - AWS EKS
+        - Istio Service Mesh
+      - Supporting Migration Cutoff
+        - Suppporting stateful component (SQL, NoSQL DB) cutoff
+        - E-W traffic switch/cutoff with Istio Service Mesh
+        - N-S traffic switch/cutoff with Cloudflare Load Balancer
+        - Idenfying missing downstreams that need to switch/cutoff
+        - Cleanup old GCP resources
+    - Supporting all other migration buddies for their queries
+
+    As Service Mesh Platform Engineer
+    - Building Gitlab pipeline for automated Istio service mesh CRDs generation
+    - Onboard GKE as istio remote clusters
+    - First level escalation for all E/W traffic cutoff / Istio related issue in OVO / OVO Financial
+    
+    **Achievements**:
+    - Awarded 2025Q2 CEO Award
+
+- layout: left
+  company: Grab
+  link: ovo.id
+  job_title: "Senior Site Reliability Engineer - OVO"
+  dates: Oct 2024 - Nov 2024
+  description: |
+    **Responsibilities**:
+    - Managed 30+ GKE Clusters
+    - CI/CD with Jenkins, Gitlab, FluxCD
+    - Config and Secret management with Consul, Google Secret Manager
+
+    **Achievements**:
+    - Adviced and planned for fixing repeadte GKE IP Exhausted issue
+    - Reduced GCP Cloud Logging Cost with Cloud Logging Sink Exclusion
+
+- layout: left
   company: Gojek
   link: gopay.co.id/merchant
   job_title: "Software Engineer - GoTo Financial: Gopay Merchant App"
-  dates: Jan 2024 - Now
+  dates: Jan 2024 - Oct 2024
   description: |
     **Responsibilities**:
     - Developing Backend for Frontend for Gopay Merchant App using <mark>Kotlin</mark> and <mark>Springboot WebFlux</mark>
