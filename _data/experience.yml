@@ -3,6 +3,14 @@
 - layout: left
   company: Grab
   link: grab.com
+  job_title: "Platform Engineer - Kubernetes"
+  dates: Mar 2026 - Now
+  description: |
+    **Projects**:
+    - Kubernetes cost saving with 50% spot instances
+- layout: left
+  company: Grab
+  link: grab.com
   job_title: "Migration Buddy (OVO, OVO Financial), Platform Engineer - Service Mesh"
   dates: Dec 2025 - Feb 2026
   description: |
