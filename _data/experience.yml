@@ -11,7 +11,7 @@
 - layout: left
   company: Grab
   link: grab.com
-  job_title: "Migration Buddy for OVO/OVO Financial) & Platform Engineer - Service Mesh for Grab"
+  job_title: "Migration Buddy for OVO/OVO Financial & Platform Engineer - Service Mesh for Grab"
   dates: Dec 2024 - Feb 2026
   description: |
     **Responsibilities**:
@@ -54,7 +54,7 @@
     - Config and Secret management with Consul, Google Secret Manager
 
     **Achievements**:
-    - Adviced and planned for fixing repeadte GKE IP Exhausted issue
+    - Adviced and planned for fixing repeated GKE IP Exhausted issue
     - Reduced GCP Cloud Logging Cost with Cloud Logging Sink Exclusion
 
 - layout: left
