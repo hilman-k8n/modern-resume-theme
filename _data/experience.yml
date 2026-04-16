@@ -7,7 +7,13 @@
   dates: Mar 2026 - Now
   description: |
     **Projects**:
-    - Kubernetes cost saving with 50% spot instances
+    - Managing 50+ EKS clusters with 3000 nodes (peak) accross 4 different oranizations accross regions (Southeast Asia)
+    - Kubernetes cost saving with:
+      - Spot instance adoption with 50:50 (spot:on-demand) ratio per Deployment with `Karpenter`
+      - Implementing `topologySpreadConstraints` for safe spot adoption
+      - Deployment right-sizing to achieve efficient request/usage ratio
+      - Deprecating `cluster-autoscaler` and replacing it with `Karpenter`
+      
 - layout: left
   company: Grab
   link: grab.com
@@ -17,27 +23,28 @@
     **Responsibilities**:
     
     As OVO Migration Buddy:
-    - Supporting service owner for AWS to GCP cloud migration:
-      - Guiding and gathering all the pre-requisite for migration
+    - Supported service owner for AWS to GCP cloud migration:
+      - Guided and gathered all the pre-requisite for migration
         - Service discovery documents
         - Network connectivity
         - Identifying possible blockers and provide AIs
-      - Guiding the service owner to adopt all Grab Tech Infra Tech Stack
+      - Guided the service owner to adopt all Grab Tech Infra Tech Stack
         - Config / Secret Management
         - AWS EKS
         - Istio Service Mesh
-      - Supporting Migration Cutoff
-        - Suppporting stateful component (SQL, NoSQL DB) cutoff
+      - Supported Migration Cutoff
+        - Suppported stateful component (SQL, NoSQL DB) cutoff
         - E-W traffic switch/cutoff with Istio Service Mesh
         - N-S traffic switch/cutoff with Cloudflare Load Balancer
-        - Idenfying missing downstreams that need to switch/cutoff
-        - Cleanup old GCP resources
-    - Supporting all other migration buddies for their queries
+        - Idenfied missing downstreams that need to switch/cutoff
+        - Cleaned up old and deprecated GCP resources
+    - Supported all other migration buddies for their queries and onbording
 
     As Service Mesh Platform Engineer
-    - Building Gitlab pipeline for automated Istio service mesh CRDs generation
-    - Onboard GKE as istio remote clusters
+    - Built Gitlab pipeline for automated Istio service mesh CRDs generation
+    - Onboarded all existing GKE clusters as istio remote clusters
     - First level escalation for all E/W traffic cutoff / Istio related issue in OVO / OVO Financial
+    - Created Datadog monitors for all istio-proxy and istiod related issues
     
     **Achievements**:
     - Awarded [Grab 2025Q2 CEO Award](https://static.hilmankurniawan.com/cv/90497-ceo-award-q2-2025.pdf)
@@ -64,9 +71,9 @@
   dates: Jan 2024 - Oct 2024
   description: |
     **Responsibilities**:
-    - Developing Backend for Frontend for Gopay Merchant App using <mark>Kotlin</mark> and <mark>Springboot WebFlux</mark>
-    - Developing Backend for Gopay Merchant App with <mark>Kotlin</mark> and <mark>Springboot WebFlux</mark>
-    - Developing Gopay Merchant App API Client libraries in <mark>Java</mark>
+    - Developed Backend for Frontend for Gopay Merchant App using <mark>Kotlin</mark> and <mark>Springboot WebFlux</mark>
+    - Developed Backend for Gopay Merchant App with <mark>Kotlin</mark> and <mark>Springboot WebFlux</mark>
+    - Developed Gopay Merchant App API Client libraries in <mark>Java</mark>
 
     **Projects**
     - May 2024 - Now
