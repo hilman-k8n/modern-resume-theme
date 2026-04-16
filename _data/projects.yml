@@ -1,10 +1,10 @@
 # Project template
 - layout: left
-  name: Datadog Monitor Sync
-  github: hilman-k8n/datadog-monitor-sync
-  link: https://github.com/hilman-k8n/datadog-monitor-sync
+  name: Netbird Terraform Modules
+  github: hilman-k8n/terraform-netbird-modules
+  link: https://github.com/hilman-k8n/terraform-netbird-modules
   description: |
-    Tool to sync datadog monitors from a single source of truth using python3
+    Collection of Netbird ZTNA terraform module
 
 - layout: left
   name: openvpn-pki-telegram
@@ -12,3 +12,10 @@
   link: https://github.com/hilman-k8n/openvpn-pki-telegram
   description: |
     Automate OpenVPN server, client config creation and send it to Telegram
+
+- layout: left
+  name: Datadog Monitor Sync
+  github: hilman-k8n/datadog-monitor-sync
+  link: https://github.com/hilman-k8n/datadog-monitor-sync
+  description: |
+    Tool to sync datadog monitors from a single source of truth using python3
