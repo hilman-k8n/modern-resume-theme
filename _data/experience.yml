@@ -9,10 +9,10 @@
     **Projects**:
     - Managing 50+ EKS clusters with 3000 nodes (peak) accross 4 different oranizations accross regions (Southeast Asia)
     - Kubernetes cost saving with:
-      - Spot instance adoption with 50:50 (spot:on-demand) ratio per Deployment with `Karpenter`
-      - Implementing `topologySpreadConstraints` for safe spot adoption
+      - Spot instance adoption with 50:50 (spot:on-demand) ratio per Deployment with <mark>Karpenter</mark>
+      - Implementing <mark>topologySpreadConstraints</mark> for safe spot adoption
       - Deployment right-sizing to achieve efficient request/usage ratio
-      - Deprecating `cluster-autoscaler` and replacing it with `Karpenter`
+      - Deprecating <mark>cluster-autoscaler</mark> and replacing it with <mark>Karpenter</mark>
       
 - layout: left
   company: Grab
