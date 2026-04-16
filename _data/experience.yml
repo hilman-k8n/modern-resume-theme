@@ -40,7 +40,7 @@
     - First level escalation for all E/W traffic cutoff / Istio related issue in OVO / OVO Financial
     
     **Achievements**:
-    - Awarded [Grab 2025Q2 CEO Award](https://drive.google.com/file/d/1mDcw0HMUmZUmgmAXb-V9V9HMuOHtsyni/view?usp=sharing)
+    - Awarded [Grab 2025Q2 CEO Award](https://static.hilmankurniawan.com/cv/90497-ceo-award-q2-2025.pdf)
 
 - layout: left
   company: Grab
@@ -103,7 +103,7 @@
 
     **Achievements**:
     - Migrated Kubernetes clusters from KOPS 1.15 to GKE 1.24
-    - Awarded [GoTo Financial Rising Star (2021)](https://drive.google.com/drive/folders/13OR--Vfb0mR50Dj_rn_tes0k6JfyOvDN?usp=sharing)
+    - Awarded [GoTo Financial Rising Star (2021)](https://static.hilmankurniawan.com/cv/goto-financial-hilman-kurniawan-rising-star-certificate.png)
     - Reduced cloud costs by 50% using spot instances
     - Migrated all MokaPOS data workloads to AWS EKS Cluster (Elastic Kubernetes Cluster)
     - Led infrastructure and application migration to Google Cloud Platform for MokaPOS, including strategy, timelines, implementation documents, CI/CD pipeline templates, helm charts, site-to-site VPN tunnels, and end-to-end visibility for cloud migration
