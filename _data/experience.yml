@@ -7,7 +7,7 @@
   dates: Mar 2026 - Now
   description: |
     **Projects**:
-    - Managing 50+ EKS clusters with 3000 nodes (peak) accross 4 different oranizations accross regions (Southeast Asia)
+    - Managing 50+ EKS clusters with 3000 nodes (peak) accross 4 different organizations accross regions (Southeast Asia)
     - Kubernetes cost saving with:
       - Spot instance adoption with 50:50 (spot:on-demand) ratio per Deployment with <mark>Karpenter</mark>
       - Implementing <mark>topologySpreadConstraints</mark> for safe spot adoption
